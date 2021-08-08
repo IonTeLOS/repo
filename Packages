@@ -1,3 +1,20 @@
+Package: eggs
+Source: eggs
+Version: 8.1.3-1
+Architecture: amd64
+Maintainer: artisan <piero.proietti@gmail.com>
+Depends: cryptsetup, dosfstools, dpkg-dev, isolinux, live-boot, live-boot-initramfs-tools, net-tools, parted, rsync, squashfs-tools, syslinux, whois, xorriso
+Conflicts: calamares-settings-debian, calamares-settings-ubuntu
+Filename: ./eggs_8.1.3-1_amd64.deb
+Size: 53957964
+MD5sum: 91e071d60e0283de576dcfcb314b06ed
+SHA1: da72c05b0790622f963b1754d9aa99438982e456
+SHA256: a981d700f95088b4bfe54db19cc8f9bc58443ae5223aede57dacd827fd4b5db0
+Section: main
+Priority: standard
+Description: Perri's Brewery edition
+Suggest: calamares, qml-module-qtquick2, qml-module-qtquick-controls
+
 Package: waffles
 Source: https://github.com/iontelos/waffles
 Version: 1.1-1
