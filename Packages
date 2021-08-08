@@ -1,0 +1,18 @@
+Package: waffles
+Source: https://github.com/iontelos/waffles
+Version: 1.1-1
+Architecture: amd64
+Maintainer: Ion@TeLOS Linux <teloslinux@protonmail.com> for Debian packaging, based on credited work from bauh developers
+Depends: python3, python3-pip, python-pip-whl, python3-wheel, python3-distutils, python3-lib2to3, python3-setuptools, python3-dateutil, python3-packaging, python3-pyparsing, python3-colorama, python3-yaml, libqt5designer5, libqt5help5, libqt5sql5, libqt5test5, libqt5xml5, python3-pyqt5, python3-pyqt5.sip, python3-bs4, python3-lxml, sqlite3, wget, fuse3, aria2, axel, python3-soupsieve, python3-requests, python3-xlib, flatpak
+Recommends: snapd
+Suggests: libappindicator3-1
+Filename: ./waffles_1.1-1_amd64.deb
+Size: 385624
+MD5sum: 15d8ebc84b5be4981f833f885c372ded
+SHA1: 1cb623e06e2334526dcc064d06c1de3d158d977e
+SHA256: 8faa9a4b73d24ed6cf744dc8278e368975c89b08fc3d98fc2fb9b48798184343
+Section: Miscellaneous - Graphical
+Priority: optional
+Description: Waffles is a crispy application for managing your Web - AppImage - Flatpak and Snap apps; easily!
+License: zlib/libpng
+
